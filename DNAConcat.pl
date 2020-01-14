@@ -6,4 +6,3 @@ print"DNA2:$DNA2\n";
 $DNAConcat="$DNA1$DNA2";
 print"DNAConcat:$DNAConcat\n";
 exit
-
