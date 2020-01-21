@@ -8,3 +8,5 @@ print"Here is the remaining array of Bases:";
 print @bases ,"\n";
 print"=================";
 print"\n \n";
+
+# try pop,shift,unshift and slicing
