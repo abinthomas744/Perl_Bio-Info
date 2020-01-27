@@ -1,20 +1,17 @@
 #To use conditional statement if-else
 
 #!/usr/bin/perl
+
 print"Type Yes or No\n";
 $word=<STDIN>;
-
+chomp $word;
 $upper=lc $word ;
 if ($upper eq "yes")
 {
- print "\nYour answer is Yes\n"
+    print "\nYour answer is Yes\n"
 }
-
 else
-{print "\nYour answer is No\n"
+{
+    print "\nYour answer is No\n"
 };
 exit
-
-
-
-
