@@ -1,0 +1,45 @@
+Type Yes or No
+yes
+Your answer is Yes
+
+
+Type Yes or No
+YES
+Your answer is Yes
+
+
+Type Yes or No
+nO
+Your answer is No
+
+
+Type Yes or No
+NO
+Your answer is No
+
+
+
+Here is the element removed from the end:T
+
+Here is the remaining array of Bases:ACG
+=================
+
+
+ 
+Here is the element added to the end:G
+
+Here is the updated array of Bases:ACGTG
+=================
+
+
+
+Original Array: Thomas Biomedical Abin
+Updated Array: Biomedical Abin  Thomas
+
+
+Original array: Biomedical Engineering 
+No of elements returned by unshift: 4
+Updated array: Abin Thomas Biomedical Engineering
+
+1
+2
