@@ -38,5 +38,3 @@ else
 until($motif=~/^\s*$/);
 
 exit
-
-
