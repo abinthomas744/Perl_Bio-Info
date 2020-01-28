@@ -1,0 +1,38 @@
+Please type the filename of the protein sequence data:Cannot Open file
+
+
+Please type the filename of the protein sequence data:Enter a motif to search for:
+I found it
+
+Enter a motif to search for:
+A
+I found it
+
+Enter a motif to search for:
+G
+I found it
+
+Enter a motif to search for:
+C
+I found it
+
+Enter a motif to search for:
+T
+I found it
+
+Enter a motif to search for:
+AGCT
+I Couldn't find it.
+
+Enter a motif to search for:
+TAC
+I Couldn't find it.
+
+Enter a motif to search for:
+ACT
+I found it
+
+Enter a motif to search for:
+TAG
+I Couldn't find it.
+
