@@ -1,8 +1,5 @@
-Please type the filename of the protein sequence data:Cannot Open file
-
-
-Please type the filename of the protein sequence data:Enter a motif to search for:
-I found it
+Please type the filename of the protein sequence data:
+sequence.pep
 
 Enter a motif to search for:
 A
