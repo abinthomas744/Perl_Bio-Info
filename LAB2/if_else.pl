@@ -5,8 +5,8 @@
 print"Type Yes or No\n";
 $word=<STDIN>;
 chomp $word;
-$upper=lc $word ;
-if ($upper eq "yes")
+$lower=lc $word ;
+if ($lower eq "yes")
 {
     print "\nYour answer is Yes\n"
 }
