@@ -1,4 +1,4 @@
- I added AGCT to CGACGTCTTCTCAGGCGA and got CGACGTCTTCTCAGGCGAAGCT
+I added AGCT to CGACGTCTTCTCAGGCGA and got CGACGTCTTCTCAGGCGAAGCT
 
 In main program before calling subroutine: i=1 2 3
 In main program before calling subroutine: j=a b c
