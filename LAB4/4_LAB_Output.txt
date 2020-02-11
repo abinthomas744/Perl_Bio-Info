@@ -1,2 +1,8 @@
  I added AGCT to CGACGTCTTCTCAGGCGA and got CGACGTCTTCTCAGGCGAAGCT
 
+In main program before calling subroutine: i=1 2 3
+In main program before calling subroutine: j=a b c
+In subroutine: i=1 2 3
+In subroutine: j=a b c
+In main program after calling subroutine: i=1 2 3 4
+In main program after calling subroutine: j=b c
