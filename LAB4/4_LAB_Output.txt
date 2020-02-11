@@ -7,9 +7,8 @@ In subroutine: j=a b c
 In main program after calling subroutine: i=1 2 3 4
 In main program after calling subroutine: j=b c
 
+
 Mutate DNA:
-
-
 Here is the Original DNA:
 
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
