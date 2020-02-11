@@ -8,7 +8,7 @@ my $mutant;
 
 srand(time|$$);
 $mutant=mutate($dna);
-print"\nMutate DNA:\n\n";
+print"\nMutate DNA:\n";
 print"\nHere is the Original DNA:\n\n";
 print"$dna\n\n";
 print"\nHere is the Mutant DNA:\n\n";
