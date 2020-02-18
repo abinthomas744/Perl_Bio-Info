@@ -1,0 +1,15 @@
+pro_extend_dna=IUPAC.ExtendedIUPACProtein.letters;
+print(pro_extend_dna);
+print("\n"); 
+
+seq1=seq("CCGGGTT.Bio.Alphabet.IUPAC.unambiguous_dna");
+print("seq1");
+
+seq.trancrib=seq1.trancrib();
+print(seq1.trancrib());
+
+ma_seq=seq("CCGGGUU",Bio.Alphabet.IUPAC.unambiguous_ma);
+print(ma_seq);
+
+ma_transcribe=ma_transcribe();
+print(unambiguous_ma);
