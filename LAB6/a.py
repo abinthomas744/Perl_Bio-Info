@@ -15,3 +15,7 @@ k=my_seq.count('G')
 mut_newseq=my_seq.tomutable()
 for i in range(k):
     mut_newseq.remove("G")
+
+
+# b.py is the complete code Ignore a.py
+# documentation for biopython http://biopython.org/DIST/docs/tutorial/Tutorial.html
